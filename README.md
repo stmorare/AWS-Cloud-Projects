@@ -3,11 +3,17 @@
 ## ***Strengthen your AWS skills through practical projects, from websites to advanced AI applications***
 
 ## AUTHORS:
-[Ivo Pinto](https://www.linkedin.com/in/h-sadeghpour/), the author of this book, is a Microsoft MVP, MCT, Microsoft Learn Expert, and a community leader.
+[Ivo Pinto](https://www.linkedin.com/in/ivopinto01/)
+[Pedro Santos](https://www.linkedin.com/in/pmbbsantos/)
 
-This book provides knowledge of general concepts, projects, real-world use cases, and all the essential things you need to know about Microsoft Azure, which will hopefully help you with your day-to-day tasks and work as a developer, cloud architect, or whatever role you get within the cloud today.
+## EXTRACT from Preface:
+###***This book’s approach is project-focused, with each chapter guiding you through the implementation of
+real-world scenarios using AWS services. From setting up basic infrastructure to host a website to
+leveraging advanced features such as serverless computing and machine learning to power a chatbot,
+the projects in this book are tailored to equip you with the skills required to tackle the challenges you will
+face in the field.***
 
-![Azure Cloud Projects](https://m.media-amazon.com/images/I/71DJYhf36iL._SL1500_.jpg)
+![AWS Cloud Projects](https://learning.oreilly.com/library/cover/9781835889282/250w/)
 
 [Amazon](https://www.amazon.com/Azure-Cloud-Projects-hands-real-world/dp/183620423X)
 
