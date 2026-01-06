@@ -1,4 +1,4 @@
-# AWS-Cloud-Projects
+# AWS Cloud Projects
 
 ## ***Strengthen your AWS skills through practical projects, from websites to advanced AI applications***
 
