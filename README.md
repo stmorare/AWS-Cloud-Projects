@@ -15,6 +15,4 @@ face in the field.***
 
 ![AWS Cloud Projects](https://content.packt.com/_/image/original/B22051/cover_image.jpg?version=1761656432)
 
-[Amazon](https://www.amazon.com/Azure-Cloud-Projects-hands-real-world/dp/183620423X)
-
-Scenarios, examples, and the real-life projects within each chapters will make the most part of this repository, the theory making the less part of this learning journey. I enjoy training that paints a picture of how technology is being used in different industries, and this book offers such content. 
+[Packt](https://www.packtpub.com/en-za/product/aws-cloud-projects-9781835889299)
