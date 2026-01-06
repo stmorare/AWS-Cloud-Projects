@@ -13,7 +13,7 @@ leveraging advanced features such as serverless computing and machine learning t
 the projects in this book are tailored to equip you with the skills required to tackle the challenges you will
 face in the field.***
 
-![AWS Cloud Projects](https://learning.oreilly.com/library/cover/9781835889282/250w/)
+![AWS Cloud Projects](https://content.packt.com/_/image/original/B22051/cover_image.jpg?version=1761656432)
 
 [Amazon](https://www.amazon.com/Azure-Cloud-Projects-hands-real-world/dp/183620423X)
 
